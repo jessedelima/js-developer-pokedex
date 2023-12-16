@@ -9,7 +9,7 @@ O Projeto base da pokedex foi desenvolvido durante o a trilha JS Developer na Di
 
 Esta é a minha versão do projeto onde pude entender melhor sobre as requisições http. Tentei manter um pouco do layout original de inspiração do projeto mas fiz algumas modificações para melhorar a usabilidade.
 
-Aqui você acessa a minha versão, espero que gostem - [Pokedex](https://jessedelima.github.io/pokedex_developer_js/)
+Aqui você acessa a minha versão, espero que gostem - [Pokedex](https://jessedelima.github.io/js-developer-pokedex/)
 
 ### Techs 
 
